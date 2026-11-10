@@ -1,3 +1,8 @@
+> **Jegor Onoprijuk, rühm TA-24B.**
+> Minu peamine GitHubi konto on **[bigbossmcnugget](https://github.com/bigbossmcnugget)** —
+> sama töö ajakohane versioon on seal: https://github.com/bigbossmcnugget/learnphp
+
+
 1. make sure you have vscode installed
 2. make sure you have git installed `winget install git.git -i`
 3. make sure you have gitbash in windows terminal and set as default
